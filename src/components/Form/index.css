@@ -1,0 +1,34 @@
+.Form-container {
+    border: 27px solid #d8d8d8;
+    background: #d8d8d8;
+    margin-right: 27px;
+    min-width: 458px;
+    display: flex;
+    flex-direction: column;
+}
+
+#canvas:hover {
+    cursor: pointer;
+}
+
+.Panel-container {
+    display: flex;
+    flex-direction: row;
+    margin: 12px 0px 26px 0px;
+    height: 46px;
+}
+
+.Color-panel {
+    border: 1px solid black;
+    min-width: 102px;
+    height: 100%;
+}
+
+#input  {
+    border: 1px solid black;
+    margin-left: 8px;
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    font-size: 36px;
+}

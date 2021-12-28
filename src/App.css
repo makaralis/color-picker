@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background: #220045;
+  padding: 197px 146px; 
+}
+
+.Main-container {
+  display: flex; 
+  flex-direction: row;
+  justify-content: center;
+}

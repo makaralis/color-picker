@@ -1,0 +1,16 @@
+.Img-container {
+    border: 27px solid #d8d8d8;
+    background: url('../../../public/images/checkerboard.svg');
+}
+
+.Shirt-container {
+    position: relative;
+    padding: 69px 64px;
+}
+
+.Logo {
+    position: absolute;
+    right: calc(50% - 62px);
+    top: 33%;
+}
+
